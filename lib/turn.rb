@@ -33,6 +33,4 @@ def turn(board)
   end
 end
 
-def display_board(board)
-  print
-end
+
