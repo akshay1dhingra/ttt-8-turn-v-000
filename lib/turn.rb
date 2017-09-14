@@ -33,4 +33,4 @@ def turn(board)
   end
 end
 
-board.printBoard
+print(board)
